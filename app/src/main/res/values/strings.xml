@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Idioma</string>
+    <string name="textoMenu">Menu Principal</string>
+    <string name="textoVersao">Versão</string>
+    <string name="textoIdioma">Idioma</string>
+    <string name="textoFechar">Fechar</string>
+</resources>

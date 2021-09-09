@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textoMenu">Main Menu</string>
+    <string name="textoVersao">Version</string>
+    <string name="textoIdioma">Language</string>
+    <string name="textoFechar">Close</string>
+</resources>
